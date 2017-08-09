@@ -1,4 +1,4 @@
-# nwtgck-hello [![Build Status](https://travis-ci.org/nwtgck/nwtgck-hello-npm.svg?branch=master)](https://travis-ci.org/nwtgck/nwtgck-hello-npm)
+# nwtgck-hello [![npm version](https://badge.fury.io/js/nwtgck-hello.svg)](https://badge.fury.io/js/nwtgck-hello) [![Build Status](https://travis-ci.org/nwtgck/nwtgck-hello-npm.svg?branch=master)](https://travis-ci.org/nwtgck/nwtgck-hello-npm) 
 
 A practice npm package of @nwtgck.
 
